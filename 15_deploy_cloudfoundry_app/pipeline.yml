@@ -13,6 +13,7 @@ resources:
     password: admin 
     organization: pcfdev-org
     space: pcfdev-space
+    current_app_name: simple-go-web-app
     skip_cert_check: true
 
 jobs:
